@@ -11,3 +11,10 @@ pillow
 scikit-learn
 python-dotenv
 gunicorn
+# Audio processing
+pyaudio
+wave
+sounddevice
+# Visualization
+matplotlib
+scipy
