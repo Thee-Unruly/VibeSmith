@@ -1,3 +1,1 @@
-# Standardize emotions and blend probabilities
-
-# ...implementation placeholder...
+# Standardize emotions, probability blending

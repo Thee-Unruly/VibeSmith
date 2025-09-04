@@ -1,3 +1,1 @@
 # Contextual filters for emotion processing
-
-# ...implementation placeholder...
