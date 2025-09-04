@@ -1,1 +1,13 @@
 # Add your Python dependencies here
+flask
+numpy
+pandas
+torch
+transformers
+speechrecognition
+librosa
+opencv-python
+pillow
+scikit-learn
+python-dotenv
+gunicorn
